@@ -1,4 +1,7 @@
 My first line int project
+<<<<<<< HEAD
 London is the capital of GB
 Moscow is the capital of Russia
 Paris is the capital of France
+=======
+>>>>>>> parent of 7e7817b... Capitals added
