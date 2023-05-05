@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 12345
+Hello, dear friend!
+>>>>>>>` newBranch
