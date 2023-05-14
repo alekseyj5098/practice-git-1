@@ -1,5 +1,8 @@
-<<<<<<< HEAD
 12345
 =======
 Hello, dear friend!
+<<<<<<< HEAD
 >>>>>>> 13d3fef (touch file3.txt)
+=======
+
+>>>>>>> 1ef0417 (last commit)
